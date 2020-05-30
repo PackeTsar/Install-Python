@@ -33,10 +33,10 @@ MacOS often comes with a native version of Python, but we likely want to upgrade
   - Additional resources on [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/install3/osx/)
 
 ## **Linux** ![Linux](img/linux_65.png)
-- ### **Raspberry Pi OS** may need Python and PIP
-  - ### Install them: `sudo apt install -y python-pip`
-- ### **Debian (Ubuntu)** distributions may need Python and PIP
-  - ### Install Python and PIP: `sudo apt install -y python-pip`
-- ### **RHEL (CentOS)** distributions usually need PIP
-  - ### Install the EPEL package: `sudo yum install -y epel-release`
-  - ### Install PIP: `sudo yum install -y python-pip`
+- **Raspberry Pi OS** may need Python and PIP
+  - Install them: `sudo apt install -y python-pip`
+- **Debian (Ubuntu)** distributions may need Python and PIP
+  - Install Python and PIP: `sudo apt install -y python-pip`
+- **RHEL (CentOS)** distributions usually need PIP
+  - Install the EPEL package: `sudo yum install -y epel-release`
+  - Install PIP: `sudo yum install -y python-pip`
