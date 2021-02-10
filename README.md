@@ -36,7 +36,7 @@ There are a couple of ways we can install Python3 on your MacOS operating system
 5. You're all done. Python is installed and ready to use.
 
 ### Option 2: Install with Homebrew
-[Homebrew](https://brew.sh/) is a MacOS Linux-like package manager. You can visit the below pages to walk you through installing Homebrew and an updated Python interpreter along with it.
+[Homebrew](https://brew.sh/) is a MacOS Linux-like package manager. Walk through the below steps to install Homebrew and an updated Python interpreter along with it.
 
 1. Open your **Terminal** application and run: `xcode-select --install`. This will open a window. Click **'Get Xcode'** and install it from the app store.
 2. Install Homebrew. Run: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
