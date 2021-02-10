@@ -24,7 +24,7 @@ A Quick Guide for Installing Python on Common Operating Systems
     - Close out your windows, open a command window and make sure you can run the commands `python` and `pip`
 
 ## **MacOS** ![MacOS](img/apple_65.png)
-MacOS comes with a native version of Python. As of this writing, it comes with a version of Python2 which has been deprecated. In order to use most modern Python applications, you need to install Python3. Python2 and Python3 can coexist on the same machine without problems, and for MacOS it is in fact necessary for this to happen, since MacOS continues to rely on Python2 for some functionality.
+MacOS comes with a native version of Python. As of this writing, it comes with a version of Python2, which has been deprecated. In order to use most modern Python applications, you need to install Python3. Python2 and Python3 can coexist on the same machine without problems, and for MacOS it is in fact necessary for this to happen, since MacOS continues to rely on Python2 for some functionality.
 
 There are a couple of ways we can install Python3 on your MacOS operating system:
 
