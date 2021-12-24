@@ -30,7 +30,7 @@ There are a couple of ways we can install Python3 on your MacOS operating system
 
 ### Option 1: Install the official Python release
 1. Browse to the [Python Downloads Page](https://www.python.org/downloads/)
-2. Click on the latest release of Python3, scroll to the bottom of the page to find the file download links, and download the latest installation package of Python3
+2. Click on the "Download Python 3.x.x" button on the page
 3. Walk through the steps of the installer wizard to install Python3
 4. Open your **Terminal** application and run the command `python3` to enter the Python interactive command line. Issue the command `quit()` to exit. Also make sure PIP (the Python package manager) is installed by issuing the command `pip3 -V`. It should display the current version of PIP as well as Python (which should be some release of Python3).
 5. You're all done. Python is installed and ready to use.
