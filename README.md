@@ -47,7 +47,7 @@ There are a couple of ways we can install Python3 on your MacOS operating system
 
 ## **Linux** ![Linux](img/linux_65.png)
 - **Raspberry Pi OS** may need Python and PIP
-  - Install them: `sudo apt install -y python-pip`
+  - Install them: `sudo apt install -y python3-pip`
 - **Debian (Ubuntu)** distributions may need Python and PIP
   - Update the list of available APT repos with `sudo apt update`
   - Install Python and PIP: `sudo apt install -y python3-pip`
