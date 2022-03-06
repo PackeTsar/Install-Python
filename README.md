@@ -32,8 +32,11 @@ There are a couple of ways we can install Python3 on your MacOS operating system
 1. Browse to the [Python Downloads Page](https://www.python.org/downloads/)
 2. Click on the "Download Python 3.x.x" button on the page
 3. Walk through the steps of the installer wizard to install Python3
-4. Open your **Terminal** application and run the command `python3` to enter the Python interactive command line. Issue the command `quit()` to exit. Also make sure PIP (the Python package manager) is installed by issuing the command `pip3 -V`. It should display the current version of PIP as well as Python (which should be some release of Python3).
-5. You're all done. Python is installed and ready to use.
+4. Once installed, the wizard will open a Finder window with some `.command` files in it
+    - Double-click the `Install Certificates.command` file and the `Update Shell Profile.command` file to run each of them
+    - Close the windows once they are finished
+6. Open your **Terminal** application and run the command `python3` to enter the Python interactive command line. Issue the command `quit()` to exit. Also make sure PIP (the Python package manager) is installed by issuing the command `pip3 -V`. It should display the current version of PIP as well as Python (which should be some release of Python3).
+7. You're all done. Python is installed and ready to use.
 
 ### Option 2: Install with Homebrew
 [Homebrew](https://brew.sh/) is a MacOS Linux-like package manager. Walk through the below steps to install Homebrew and an updated Python interpreter along with it.
